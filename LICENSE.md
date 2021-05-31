@@ -4,4 +4,5 @@ The whole project is distributed under the following licenses:
     - [OFL License](fonts-license/ComputerModern-license_OFL.txt) - Computer Modern,
     - [OFL License](fonts-license/Funtype-license_OFL.txt) - Funtype,
     - [OFL License](fonts-license/JosefinSans-license_OFL.txt) - Josefin Sans.
+
 Violating these conditions will lead to a legal dispute.
