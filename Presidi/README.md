@@ -54,7 +54,7 @@
 ---
 
 [<img align="left" src="anteprime_presidi/presidio_falange.png" width="30%">][file_presidio_falange]
-### Prolunga Freni:
+### Presidio Falange:
 **Per scaricare il presidio falange, premere sul'immagine a sinistra.**
 
 <br clear="left"/>
