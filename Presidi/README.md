@@ -8,6 +8,10 @@
 
 ![foo](anteprime_presidi/adattatore_joystick.png){ width=50% }
 
+\begin{figure}
+ \includegraphics[scale=0.5]{anteprime_presidi/adattatore_joystick.png}
+\end{figure}
+
 [file_adattatore_joystick]: Adattatore_Joystick_rev_1.4.f3d?raw=true
 [adattatore_joystick]: anteprime_presidi/adattatore_joystick.png
 
