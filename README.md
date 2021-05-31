@@ -5,7 +5,7 @@ Per vedere la lista dei modelli 3D visitare la cartella [Presidi](Presidi) e apr
 
 ## Manuali per Autodesk Fusion 360:
 
-In questo database son stati caricati dei manuali per aiutare con il primo accesso al programma e al caricamento dei vari modelli CAD 3D. 
+In questo database son stati caricati dei manuali per aiutare l'utente con il primo accesso al programma e al caricamento dei vari modelli CAD 3D. 
 
 ## License
 
