@@ -10,13 +10,13 @@ In questo database son stati caricati dei manuali per aiutare l'utente con il pr
 ### Lista Manuali:
 Cartella [Primi Passi Autodesk Fusion 360](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360)
   
-  - [attivare_account_uso_personale_gratuito.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/attivare_account_uso_personale_gratuito.pdf)
-  - [primo_accesso_Fusion_360.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/primo_accesso_Fusion_360.pdf)
+  - [attivare_account_uso_personale_gratuito.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/attivare_account_uso_personale_gratuito.pdf?raw=true)
+  - [primo_accesso_Fusion_360.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/primo_accesso_Fusion_360.pdf?raw=true)
 
 Cartella [Brevissime Guide Autodesk Fusion 360](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360)
   
-  - [opuscolo_fusion.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/opuscolo_fusion.pdf)
-  - [ambiente_sketch.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/ambiente_sketch.pdf)
+  - [opuscolo_fusion.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/opuscolo_fusion.pdf?raw=true)
+  - [ambiente_sketch.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/ambiente_sketch.pdf?raw=true)
 
 ## License
 
