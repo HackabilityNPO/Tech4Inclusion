@@ -2,6 +2,9 @@
 Database dei presidi del progetto Teck4Inclusion
 
 ## License
+
+Fonts are licensed under different license (see [LICENSE](LICENSE.md)).
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 The designs are licensed under a
