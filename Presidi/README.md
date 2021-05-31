@@ -4,7 +4,7 @@
 ---
 
 
-[<img align="left" src="anteprime_presidi/adattatore_joystick.png" width="50%">][file_adattatore_joystick] 
+[<img align="left" src="anteprime_presidi/adattatore_joystick.png" width="30%">][file_adattatore_joystick] 
 ### Adattatore per joystick carrozzina motorizzata:
 **Per scaricare l'adattatore per joystick carrozzina motorizzata, premere sul'immagine a sinistra.**
 <!-- [![anteprima_adattatore_joystick][adattatore_joystick]][file_adattatore_joystick] -->
