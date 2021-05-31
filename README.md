@@ -1,7 +1,7 @@
 # Hackability Unità Spinali
 Database dei presidi del progetto Teck4Inclusion.
 
-Per vedere la lista dei modelli 3D visitare la cartella e aprire il [README.md](Presidi/README.md).
+Per vedere la lista dei modelli 3D visitare la cartella [Presidi](Presidi) e aprire il [Presidi/README.md](Presidi/README.md).
 
 ## License
 
