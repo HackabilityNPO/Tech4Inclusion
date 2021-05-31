@@ -53,6 +53,14 @@
 
 ---
 
+[<img align="left" src="anteprime_presidi/presidio_falange.png" width="30%">][file_presidio_falange]
+### Prolunga Freni:
+**Per scaricare il presidio falange, premere sul'immagine a sinistra.**
+
+<br clear="left"/>
+
+---
+
 [<img align="left" src="anteprime_presidi/prolunga_freni.png" width="30%">][file_prolunga_freni] 
 ### Prolunga Freni:
 **Per scaricare il prolunga freni, premere sul'immagine a sinistra.**
@@ -68,7 +76,7 @@
 [file_portaspazzola]: Portaspazzola_rev_1.0.f3d?raw=true
 [file_presidio_dito]: Presidio_dito_ver_1.1.f3d?raw=true
 [file_prolunga_freni]: Prolunga_freni_rev_1.1.f3d?raw=true
-
+[file_presidio_falange]: Presidio_falange_rev_1.0.f3d?raw=true
 
 
 <!-- [adattatore_joystick]: anteprime_presidi/adattatore_joystick.png -->
