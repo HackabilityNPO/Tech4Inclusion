@@ -8,6 +8,8 @@
  **Per scaricare l'adattatore per joystick carrozzina motorizzata, premere sul'immagine a sinistra.**
 <!-- [![anteprima_adattatore_joystick][adattatore_joystick]][file_adattatore_joystick] -->
 
+<br clear="left"/>
+
 ---
 
 [file_adattatore_joystick]: Adattatore_Joystick_rev_1.4.f3d?raw=true
