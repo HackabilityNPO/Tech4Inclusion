@@ -8,15 +8,15 @@ Per vedere la lista dei modelli 3D visitare la cartella [Presidi](Presidi) e apr
 In questo database son stati caricati dei manuali per aiutare l'utente con il primo accesso al programma e al caricamento dei vari modelli CAD 3D. 
 
 ### Lista Manuali:
-Cartella [Primi Passi Autodesk Fusion 360](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360)
+Cartella [Primi Passi Autodesk Fusion 360](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360):
   
-  - [attivare_account_uso_personale_gratuito.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/attivare_account_uso_personale_gratuito.pdf?raw=true)
-  - [primo_accesso_Fusion_360.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/primo_accesso_Fusion_360.pdf?raw=true)
+  - [attivare_account_uso_personale_gratuito.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/attivare_account_uso_personale_gratuito.pdf?raw=true),
+  - [primo_accesso_Fusion_360.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/primo_accesso_Fusion_360.pdf?raw=true).
 
-Cartella [Brevissime Guide Autodesk Fusion 360](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360)
+Cartella [Brevissime Guide Autodesk Fusion 360](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360):
   
-  - [opuscolo_fusion.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/opuscolo_fusion.pdf?raw=true)
-  - [ambiente_sketch.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/ambiente_sketch.pdf?raw=true)
+  - [opuscolo_fusion.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/opuscolo_fusion.pdf?raw=true),
+  - [ambiente_sketch.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/ambiente_sketch.pdf?raw=true).
 
 ## License
 
