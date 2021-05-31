@@ -29,7 +29,7 @@
 
 ---
 
-[<img align="left" src="anteprime_presidi/joystick_sfera.png" width="30%">][file_joystick_sfera] 
+[<img align="left" src="anteprime_presidi/joystick_sfera-.png" width="30%">][file_joystick_sfera] 
 ### Joystick Sfera:
 **Per scaricare il joystick sfera, premere sul'immagine a sinistra.**
 
