@@ -5,7 +5,8 @@ Database dei presidi del progetto Teck4Inclusion
 
 Fonts are licensed under different license (see [LICENSE](LICENSE.md)).
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 The designs and pdf documents are licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
