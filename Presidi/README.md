@@ -21,7 +21,7 @@
 
 ---
 
-[<img align="left" src="anteprime_presidi/joystick_originale-.png" width="30%">][file_joystick_originale] 
+[<img align="left" src="anteprime_presidi/joystick_originale.png" width="30%">][file_joystick_originale] 
 ### Joystick Originale:
 **Per scaricare il joystick originale, premere sul'immagine a sinistra.**
 
