@@ -21,6 +21,45 @@
 
 ---
 
+[<img align="left" src="anteprime_presidi/joystick_originale.png" width="30%">][file_joystick_originale] 
+### Joystick Originale:
+**Per scaricare il joystick originale, premere sul'immagine a sinistra.**
+
+<br clear="left"/>
+
+---
+
+[<img align="left" src="anteprime_presidi/joystick_sfera.png" width="30%">][file_joystick_sfera] 
+### Joystick Sfera:
+**Per scaricare il joystick sfera, premere sul'immagine a sinistra.**
+
+<br clear="left"/>
+
+---
+
+[<img align="left" src="anteprime_presidi/portaspazzola.png" width="30%">][file_portaspazzola] 
+### Portaspazzola:
+**Per scaricare il portaspazzola, premere sul'immagine a sinistra.**
+
+<br clear="left"/>
+
+---
+
+[<img align="left" src="anteprime_presidi/presidio_dito.png" width="30%">][file_presidio_dito] 
+### Presidio Dito:
+**Per scaricare il presidio dito, premere sul'immagine a sinistra.**
+
+<br clear="left"/>
+
+---
+
+[<img align="left" src="anteprime_presidi/prolunga_freni.png" width="30%">][file_prolunga_freni] 
+### Prolunga Freni:
+**Per scaricare il prolunga freni, premere sul'immagine a sinistra.**
+
+<br clear="left"/>
+
+---
 
 [file_adattatore_joystick]: Adattatore_Joystick_rev_1.4.f3d?raw=true
 [file_aattaccabottoni]: Attaccabottoni_rev_1.0.f3d?raw=true
