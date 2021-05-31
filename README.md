@@ -1,4 +1,4 @@
-# Hackability Unita Spinali
+# Hackability Unità Spinali
 Database dei presidi del progetto Teck4Inclusion
 
 ## License
