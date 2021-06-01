@@ -76,7 +76,7 @@
 [file_portaspazzola]: Portaspazzola_rev_1.0.f3d?raw=true
 [file_presidio_dito]: Presidio_dito_ver_1.1.f3d?raw=true
 [file_prolunga_freni]: Prolunga_freni_rev_1.1.f3d?raw=true
-[file_presidio_falange]: Presidio_falange_rev_1.0.f3d?raw=true
+[file_presidio_falange]: Presidio_falange_rev_1.1.f3d?raw=true
 
 
 <!-- [adattatore_joystick]: anteprime_presidi/adattatore_joystick.png -->
