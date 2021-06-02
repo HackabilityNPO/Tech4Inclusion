@@ -5,7 +5,7 @@ Database dei presidi del progetto Teck4Inclusion.
 
 Per vedere la lista dei modelli 3D visitare la cartella [Presidi](Presidi) e aprire il file [Presidi/README](Presidi/README.md).
 
-[<img align="right" src="anteprime_presidi/list.png" width="30%">](Presidi/README.md)
+[<img align="right" src="Presidi/anteprime_presidi/list.png" width="10%">](Presidi/README.md)
 
 Oppure premi direttamente qua a destra:
 
