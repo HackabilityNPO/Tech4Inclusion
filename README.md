@@ -35,9 +35,11 @@ Cartella [Brevissime Guide Autodesk Fusion 360](Manuali/Brevissime%20Guide%20Aut
 
 
 
-## Collaboratori:
+## Disegnatori:
 
-
+- Giulia Galante  (giuliag.galante@gmail.com)
+- Maurizio Contu  (maurizio.contu@hackability.it)
+- Simone De Pascalis (simodidepa@gmail.com)
 
 
 ## License
