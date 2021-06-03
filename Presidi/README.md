@@ -1,5 +1,7 @@
 
-## Lista Modelli 3D
+### Lista Modelli 3D
+
+## Lista Presidi Modificabili
 
 ---
 
@@ -69,15 +71,40 @@
 
 ---
 
-[file_adattatore_joystick]: Adattatore_Joystick_rev_1.4.f3d?raw=true
-[file_aattaccabottoni]: Attaccabottoni_rev_1.0.f3d?raw=true
-[file_joystick_originale]: Joystick_originale.f3d?raw=true
-[file_joystick_sfera]: Joystick_sfera_rev_1.0.f3d?raw=true
-[file_portaspazzola]: Portaspazzola_rev_1.0.f3d?raw=true
-[file_presidio_dito]: Presidio_dito_ver_1.1.f3d?raw=true
-[file_prolunga_freni]: Prolunga_freni_rev_1.1.f3d?raw=true
-[file_presidio_falange]: Presidio_falange_rev_1.1.f3d?raw=true
+[file_adattatore_joystick]: presidi_ingegnerizzati/Adattatore_Joystick_rev_1.4.f3d?raw=true
+[file_aattaccabottoni]: presidi_ingegnerizzati/Attaccabottoni_rev_1.0.f3d?raw=true
+[file_joystick_originale]: presidi_ingegnerizzati/Joystick_originale.f3d?raw=true
+[file_joystick_sfera]: presidi_ingegnerizzati/Joystick_sfera_rev_1.0.f3d?raw=true
+[file_portaspazzola]: presidi_ingegnerizzati/Portaspazzola_rev_1.0.f3d?raw=true
+[file_presidio_dito]: presidi_ingegnerizzati/Presidio_dito_ver_1.1.f3d?raw=true
+[file_prolunga_freni]: presidi_ingegnerizzati/Prolunga_freni_rev_1.1.f3d?raw=true
+[file_presidio_falange]: presidi_ingegnerizzati/Presidio_falange_rev_1.1.f3d?raw=true
 
+## Lista Modelli Non Modificabili:
+
+I presidi in questa lista sono già in stl, vanno direttamente importati su Prusa Slicer e poi vanno divisi con il pulsante **Dividi in oggetti** che trovate in alto nella barra ozizzontale.
+<!--I presidi in questa lista bisogna sempre aprirli con Autodesk Fusion 360 ed esportare direttamente i corpi in stl. -->
+
+---
+
+[<img align="left" src="anteprime_presidi/estensione_tagliaunghie.png" width="30%">][file_estensione_tagliaunghie] 
+### Estensione Per Tagliaunghe:
+**Per scaricare l'estensione per tagliaunghie, premere sul'immagine a sinistra.**
+
+<br clear="left"/>
+
+---
+
+[<img align="left" src="anteprime_presidi/tutore_penna.png" width="30%">][file_tutore_penna] 
+### Tutore Penna:
+**Per scaricare il turore penna, premere sul'immagine a sinistra.**
+
+<br clear="left"/>
+
+---
+
+[file_estensione_tagliaunghie]: presidi_non_modificabili/estensione_tagliaunghie.stl?raw=true
+[file_tutore_penna]: presidi_non_modificabili/tutore_penna.stl?raw=true
 
 <!-- [adattatore_joystick]: anteprime_presidi/adattatore_joystick.png -->
 
