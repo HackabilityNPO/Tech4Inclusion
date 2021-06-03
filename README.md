@@ -17,7 +17,6 @@ Oppure clicca sull'icona qua a destra:
 
 I passaggi per la modifica dei parametri, dei modelli 3D modificabili, è riassunta nelle ultime 8 pagine del manuale [primo_accesso_Fusion_360.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/primo_accesso_Fusion_360.pdf?raw=true).
 
----
 
 ## Manuali per Autodesk Fusion 360:
 
@@ -34,12 +33,12 @@ Cartella [Brevissime Guide Autodesk Fusion 360](Manuali/Brevissime%20Guide%20Aut
   - [opuscolo_fusion.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/opuscolo_fusion.pdf?raw=true)
   - [ambiente_sketch.pdf](Manuali/Brevissime%20Guide%20Autodesk%20Fusion%20360/ambiente_sketch.pdf?raw=true)
 
----
+
 
 ## Collaboratori:
 
 
----
+
 
 ## License
 
