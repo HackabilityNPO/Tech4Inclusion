@@ -15,7 +15,7 @@ Oppure clicca sull'icona qua a destra:
 
 ## Modifica Parametri dei modelli:
 
-I passaggi per la modifica dei parametri, dei modelli 3D modificabili, è riassunta nelle ultime 8 pagine del manuale [primo_accesso_Fusion_360.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/primo_accesso_Fusion_360.pdf?raw=true).
+I passaggi per la modifica dei parametri, dei modelli 3D modificabili, sono riassunti nelle ultime 8 pagine del manuale [primo_accesso_Fusion_360.pdf](Manuali/Primi%20Passi%20Autodesk%20Fusion%20360/primo_accesso_Fusion_360.pdf?raw=true).
 
 
 ## Manuali per Autodesk Fusion 360:
