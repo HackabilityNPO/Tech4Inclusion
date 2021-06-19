@@ -41,12 +41,8 @@ Cartella [Brevissime Guide Autodesk Fusion 360](Manuali/Brevissime%20Guide%20Aut
 - Maurizio Contu  (maurizio.contu@hackability.it)
 - Simone De Pascalis (simodidepa@gmail.com)
 - Marco Bocca (marco.bocca94@gmail.com)
-- Giuseppe Becci (peppinobecci@gmail.com )
+- Giuseppe Becci (peppinobecci@gmail.com)
 
-
-### Ingegnerizzato da:
-
-- Maurizio Contu  (maurizio.contu@hackability.it)
 
 ## License
 
