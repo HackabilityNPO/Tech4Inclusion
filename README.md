@@ -1,5 +1,5 @@
-# Hackability Unità Spinali
-Database dei presidi del progetto Teck4Inclusion.
+# Tech4Inclusion
+Database dei presidi del progetto Teck4Inclusion sulle unità spinali di Alessandria, Novara e Torino.
 
 ---
 
