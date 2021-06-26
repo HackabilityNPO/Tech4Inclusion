@@ -1,5 +1,5 @@
 # Tech4Inclusion
-Database dei presidi del progetto Teck4Inclusion sulle unità spinali di Alessandria, Novara e Torino.
+Database dei presidi del progetto Teck4Inclusion sulle unità spinali di Torino, Novara e Alessandria.
 
 ---
 
