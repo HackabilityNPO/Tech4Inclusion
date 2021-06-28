@@ -141,6 +141,10 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Modalità di stampa:
 
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **100% Riempimento**.
+
+**Stampare orizzontalmente**, il modello **necessita di supporti generati solo dal piano di stampa**.
+
 <br clear="left"/>
 
 #### Progetto di:
@@ -174,6 +178,10 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 ### Prolunga Freni:
 
 #### Modalità di stampa:
+
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm**, aumentando solo il **numero di perimetri a 4**.
+
+**Stampare orizzontalmente** con la superficie a contatto col piano di stampa, il modello è ottimizzato per essere stampato **senza supporti**..
 
 <br clear="left"/>
 
