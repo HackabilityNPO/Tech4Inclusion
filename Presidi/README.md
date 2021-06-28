@@ -18,7 +18,7 @@ I seguenti presidi sono stati realizzati grazie all'aiuto di tutti i terapisti d
 
 #### Modalità di stampa:
 
-Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
+|:--:| Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
 
 - **"Base"** --> stamparla a testa in giù, non necessita di supporti.
 - **"Pezzo Interno"** --> stamparlo con la superficie piatta a contatto con il piano, **necessita di supporti**.
