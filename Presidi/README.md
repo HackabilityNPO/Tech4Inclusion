@@ -68,6 +68,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 Stampare verticalmente con l'incastro rivolto al piano di stampa, **necessita di supporti**.
 
+<br clear="left"/>
+
 #### Progetto di:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
@@ -85,7 +87,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è ottimizzato per essere stampato **senza supporti**.
 
-
+<br clear="left"/>
 
 #### Progetto di:
 
@@ -104,7 +106,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è ottimizzato per essere stampato **senza supporti**.
 
-
+<br clear="left"/>
 
 #### Progetto di:
 
@@ -121,6 +123,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Modalità di stampa:
 
+<br clear="left"/>
+
 #### Progetto di:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
@@ -136,6 +140,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 ### Presidio Dito:
 
 #### Modalità di stampa:
+
+<br clear="left"/>
 
 #### Progetto di:
 
@@ -154,7 +160,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 **Stampare verticalmente con la punta rivolta verso il basso** a contatto con il piano di stampa, **necessita di supporti generati solo dal piano di stampa**.
 
-.
+<br clear="left"/>
 
 #### Progetto di:
 
@@ -168,6 +174,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 ### Prolunga Freni:
 
 #### Modalità di stampa:
+
+<br clear="left"/>
 
 #### Progetto di:
 
