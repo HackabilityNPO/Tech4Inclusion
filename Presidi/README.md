@@ -1,5 +1,5 @@
 
-### Lista Modelli 3D
+# Lista Modelli 3D
 
 **Per scaricare il o i modelli, premere direttamente sull'immagine a sinistra.**
 
@@ -48,7 +48,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
 - Francesco Rodighiero (francesco.rodighiero@gmail.com)
-- (Ingegnerizzazione) Maurizio Contu  (maurizio.contu@hackability.it)
+- (Ingegnerizzazione e revisione) Maurizio Contu  (maurizio.contu@hackability.it)
 
 
 <br clear="left"/>
@@ -91,7 +91,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
 - Francesco Rodighiero (francesco.rodighiero@gmail.com)
-- (Ingegnerizzazione) Maurizio Contu  (maurizio.contu@hackability.it)
+- (Ingegnerizzazione e revisione) Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
