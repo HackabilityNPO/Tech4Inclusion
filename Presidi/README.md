@@ -38,6 +38,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 [<img align="left" src="anteprime_presidi/attaccabottoni.png" width="30%">][file_aattaccabottoni] 
 ### Attaccabottoni:
+
 Per questo progetto è stato usato del **fil di ferro spessore 2 mm**.
 
 #### Modalità di stampa:
@@ -119,9 +120,9 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 [<img align="left" src="anteprime_presidi/portaspazzola.png" width="30%">][file_portaspazzola] 
 ### Portaspazzola:
 
-Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
-
 #### Modalità di stampa:
+
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
 
 <br clear="left"/>
 
