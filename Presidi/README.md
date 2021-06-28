@@ -60,6 +60,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Modalità di stampa:
 
+Stampare verticalmente
+
 #### Progetto di:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
@@ -70,6 +72,19 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 [<img align="left" src="anteprime_presidi/joystick_sfera.png" width="30%">][file_joystick_sfera] 
 ### Joystick Sfera:
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Maurizio Contu  (maurizio.contu@hackability.it)
+
+<br clear="left"/>
+
+---
+
+[<img align="left" src="anteprime_presidi/joystick_ver2.png" width="30%">][file_joystick_ver2] 
+### Joystick Versione 2:
 
 #### Modalità di stampa:
 
@@ -144,6 +159,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 [file_presidio_dito]: presidi_ingegnerizzati/Presidio_dito_ver_1.1.f3d?raw=true
 [file_prolunga_freni]: presidi_ingegnerizzati/Prolunga_freni_rev_1.1.f3d?raw=true
 [file_presidio_falange]: presidi_ingegnerizzati/Presidio_falange_rev_1.2.f3d?raw=true
+[file_joystick_ver2]: presidi_ingegnerizzati/Joystick_ver2_rev_1.2.f3d?raw=true
+
 
 ## Lista Modelli Non Modificabili:
 
