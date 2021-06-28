@@ -21,6 +21,8 @@ Per questo progetto sono state usate delle **viti da legno 3,00x20 mm**.
 
 Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
 
+<br clear="left"/>
+
 - **"Base"** --> stamparla a testa in giù, non necessita di supporti.
 - **"Pezzo Interno"** --> stamparlo con la superficie piatta a contatto con il piano, **necessita di supporti**.
 - **"Poggiamano"** --> stamparlo in verticale.
