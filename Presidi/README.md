@@ -179,7 +179,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 #### Modalità di stampa:
 
-Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm**, aumentando solo il **numero di perimetri a 4**.
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm), aumentando solo il **numero di perimetri a 4** e un **Riempimento al 15% o 20%**.
 
 **Stampare orizzontalmente** con la superficie a contatto col piano di stampa, il modello è ottimizzato per essere stampato **senza supporti**..
 
