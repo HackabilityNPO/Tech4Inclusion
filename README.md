@@ -1,5 +1,8 @@
 # Tech4Inclusion
-Database dei presidi del progetto Teck4Inclusion sulle unità spinali di Torino, Novara e Alessandria.
+
+Tech4Inclusion un progetto di Hackability realizzato insieme ai terapisti e alle terapiste delle Unità Spinali di Torino, Alessandria e Novara per imparare a modellare, stampare in 3D, realizzare nuovi ausili, e migliorare quelli che esistono. 
+
+Tech4Inclusion è stato realizzato con il contributo di FONDAZIONE CRT.
 
 ---
 
