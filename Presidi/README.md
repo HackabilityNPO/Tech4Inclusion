@@ -227,3 +227,7 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 <!-- [adattatore_joystick]: anteprime_presidi/adattatore_joystick.png -->
 
+    | Selector | Functional Description |
+    | --- | --- |
+    | `E:attr=val` | Here is the functional description |
+    | `E:attr|=val` | Here is the functional description |
