@@ -147,7 +147,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Modalità di stampa:
 
-Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm**.
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **100% Riempimento**.
 
 **Stampare verticalmente con la punta rivolta verso il basso** a contatto con il piano di stampa, **necessita di supporti generati solo dal piano di stampa**.
 
