@@ -155,7 +155,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 #### Progetto di:
 
-                - Maurizio Contu  (maurizio.contu@hackability.it)
+- Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
