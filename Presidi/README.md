@@ -60,7 +60,9 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Modalità di stampa:
 
-Stampare verticalmente
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
+
+Stampare verticalmente con l'incastro rivolto al piano di stampa, **necessita di supporti**.
 
 #### Progetto di:
 
@@ -75,6 +77,10 @@ Stampare verticalmente
 
 #### Modalità di stampa:
 
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
+
+Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è ottimizzato per essere stampato **senza supporti**.
+
 #### Progetto di:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
@@ -88,6 +94,10 @@ Stampare verticalmente
 
 #### Modalità di stampa:
 
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
+
+Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è ottimizzato per essere stampato **senza supporti**.
+
 #### Progetto di:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
@@ -98,6 +108,8 @@ Stampare verticalmente
 
 [<img align="left" src="anteprime_presidi/portaspazzola.png" width="30%">][file_portaspazzola] 
 ### Portaspazzola:
+
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
 
 #### Modalità di stampa:
 
