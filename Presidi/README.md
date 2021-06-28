@@ -78,7 +78,7 @@
 [file_portaspazzola]: presidi_ingegnerizzati/Portaspazzola_rev_1.0.f3d?raw=true
 [file_presidio_dito]: presidi_ingegnerizzati/Presidio_dito_ver_1.1.f3d?raw=true
 [file_prolunga_freni]: presidi_ingegnerizzati/Prolunga_freni_rev_1.1.f3d?raw=true
-[file_presidio_falange]: presidi_ingegnerizzati/Presidio_falange_rev_1.1.f3d?raw=true
+[file_presidio_falange]: presidi_ingegnerizzati/Presidio_falange_rev_1.2.f3d?raw=true
 
 ## Lista Modelli Non Modificabili:
 
