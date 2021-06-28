@@ -7,7 +7,7 @@ Database dei presidi del progetto Teck4Inclusion sulle unità spinali di Torino,
 
 Per vedere la lista dei modelli 3D visitare la cartella [Presidi](Presidi) e aprire il file [Presidi/README](Presidi/README.md).
 
-**Oppure clicca sull'icona qua a destra: **
+**Oppure clicca sull'icona qua a destra:**
 
 <br clear="right"/>
 
