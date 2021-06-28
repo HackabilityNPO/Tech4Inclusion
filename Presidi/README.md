@@ -1,6 +1,9 @@
 
 ### Lista Modelli 3D
 
+**Per scaricare il o i modelli, premere direttamente sull'immagine a sinistra.**
+I seguenti presidi sono stati realizzati grazie all'aiuto di tutti i terapisti delle unità spinali che hanno partecipato al progetto.
+
 ## Lista Presidi Modificabili
 
 ---
@@ -8,8 +11,12 @@
 
 [<img align="left" src="anteprime_presidi/adattatore_joystick.png" width="30%">][file_adattatore_joystick] 
 ### Adattatore per joystick carrozzina motorizzata:
-**Per scaricare l'adattatore per joystick carrozzina motorizzata, premere sul'immagine a sinistra.**
-<!-- [![anteprima_adattatore_joystick][adattatore_joystick]][file_adattatore_joystick] -->
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
