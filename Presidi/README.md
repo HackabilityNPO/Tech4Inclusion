@@ -10,14 +10,14 @@ I seguenti presidi sono stati realizzati grazie all'aiuto di tutti i terapisti d
 ---
 
 
-[<img align="left" src="anteprime_presidi/adattatore_joystick.png" width="35%">][file_adattatore_joystick] 
+[<img align="left" src="anteprime_presidi/adattatore_joystick.png" width="30%">][file_adattatore_joystick] 
 ### Adattatore per joystick carrozzina motorizzata:
 
 Per questo progetto sono state usate delle **viti da legno 3,00x20 mm**.
 
 #### Modalità di stampa:
 
-Le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
 
 - **"Base"** --> stamparla a testa in giù, non necessita di supporti.
 - **"Pezzo Interno"** --> stamparlo con la superficie piatta a contatto con il piano, **necessita di supporti**.
@@ -34,7 +34,22 @@ Le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare 
 
 [<img align="left" src="anteprime_presidi/attaccabottoni.png" width="30%">][file_aattaccabottoni] 
 ### Attaccabottoni:
-**Per scaricare l'attaccabottoni, premere sul'immagine a sinistra.**
+Per questo progetto è stato usato del **fil di ferro spessore 2 mm**.
+
+#### Modalità di stampa:
+
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
+
+- **"Manico"** --> stamparlo orizzontalmente, **necessita di supporti**.
+- **"Incastro"** --> stamparlo verticalmente, non necessita di supporti.
+
+#### Progetto di:
+
+- Giulia Galante  (giuliag.galante@gmail.com)
+- Simone De Pascalis (simodidepa@gmail.com)
+- Francesco Rodighiero (francesco.rodighiero@gmail.com)
+- (Ingegnerizzazione) Maurizio Contu  (maurizio.contu@hackability.it)
+
 
 <br clear="left"/>
 
@@ -42,7 +57,12 @@ Le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare 
 
 [<img align="left" src="anteprime_presidi/joystick_originale.png" width="30%">][file_joystick_originale] 
 ### Joystick Originale:
-**Per scaricare il joystick originale, premere sul'immagine a sinistra.**
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
@@ -50,7 +70,12 @@ Le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare 
 
 [<img align="left" src="anteprime_presidi/joystick_sfera.png" width="30%">][file_joystick_sfera] 
 ### Joystick Sfera:
-**Per scaricare il joystick sfera, premere sul'immagine a sinistra.**
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
@@ -58,7 +83,15 @@ Le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare 
 
 [<img align="left" src="anteprime_presidi/portaspazzola.png" width="30%">][file_portaspazzola] 
 ### Portaspazzola:
-**Per scaricare il portaspazzola, premere sul'immagine a sinistra.**
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Giulia Galante  (giuliag.galante@gmail.com)
+- Simone De Pascalis (simodidepa@gmail.com)
+- Francesco Rodighiero (francesco.rodighiero@gmail.com)
+- (Ingegnerizzazione) Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
@@ -66,7 +99,12 @@ Le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare 
 
 [<img align="left" src="anteprime_presidi/presidio_dito.png" width="30%">][file_presidio_dito] 
 ### Presidio Dito:
-**Per scaricare il presidio dito, premere sul'immagine a sinistra.**
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
@@ -74,7 +112,12 @@ Le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare 
 
 [<img align="left" src="anteprime_presidi/presidio_falange.png" width="30%">][file_presidio_falange]
 ### Presidio Falange:
-**Per scaricare il presidio falange, premere sul'immagine a sinistra.**
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
@@ -82,7 +125,12 @@ Le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare 
 
 [<img align="left" src="anteprime_presidi/prolunga_freni.png" width="30%">][file_prolunga_freni] 
 ### Prolunga Freni:
-**Per scaricare il prolunga freni, premere sul'immagine a sinistra.**
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Maurizio Contu  (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
@@ -106,7 +154,14 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 [<img align="left" src="anteprime_presidi/estensione_tagliaunghie.png" width="30%">][file_estensione_tagliaunghie] 
 ### Estensione Per Tagliaunghe:
-**Per scaricare l'estensione per tagliaunghie, premere sul'immagine a sinistra.**
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Giulia Galante  (giuliag.galante@gmail.com)
+- Simone De Pascalis (simodidepa@gmail.com)
+- Francesco Rodighiero (francesco.rodighiero@gmail.com)
 
 <br clear="left"/>
 
@@ -114,7 +169,14 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 [<img align="left" src="anteprime_presidi/tutore_penna.png" width="30%">][file_tutore_penna] 
 ### Tutore Penna:
-**Per scaricare il turore penna, premere sul'immagine a sinistra.**
+
+#### Modalità di stampa:
+
+#### Progetto di:
+
+- Giulia Galante  (giuliag.galante@gmail.com)
+- Simone De Pascalis (simodidepa@gmail.com)
+- Francesco Rodighiero (francesco.rodighiero@gmail.com)
 
 <br clear="left"/>
 
