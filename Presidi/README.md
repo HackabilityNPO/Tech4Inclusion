@@ -82,6 +82,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è ottimizzato per essere stampato **senza supporti**.
 
+
+
 #### Progetto di:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
@@ -98,6 +100,8 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
 
 Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è ottimizzato per essere stampato **senza supporti**.
+
+
 
 #### Progetto di:
 
@@ -140,6 +144,10 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 [<img align="left" src="anteprime_presidi/presidio_falange.png" width="30%">][file_presidio_falange]
 ### Presidio Falange:
+
+Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm**.
+
+**Stampare verticalmente con la punta rivolta verso il basso** a contatto con il piano di stampa, **necessita di supporti generati solo dal piano di stampa**.
 
 #### Modalità di stampa:
 
