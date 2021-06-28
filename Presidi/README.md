@@ -12,13 +12,14 @@ I seguenti presidi sono stati realizzati grazie all'aiuto di tutti i terapisti d
 
 [<img align="left" src="anteprime_presidi/adattatore_joystick.png" width="30%">][file_adattatore_joystick] 
 
-### Adattatore per joystick carrozzina motorizzata:
-
-|| Per questo progetto sono state usate delle **viti da legno 3,00x20 mm**.
+| ### Adattatore per joystick carrozzina motorizzata: |
+| |
+| Per questo progetto sono state usate delle **viti da legno 3,00x20 mm**. |
+| |
 
 #### Modalità di stampa:
 
-|:--:| Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
+| Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
 
 - **"Base"** --> stamparla a testa in giù, non necessita di supporti.
 - **"Pezzo Interno"** --> stamparlo con la superficie piatta a contatto con il piano, **necessita di supporti**.
