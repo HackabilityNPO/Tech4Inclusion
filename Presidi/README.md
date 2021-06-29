@@ -124,6 +124,9 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 
 Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per fare più veloce si può anche stampare con layer 0,28 mm).
 
+- **"Manico"** --> stamparlo orizzontalmente, **necessita di supporti ovunque**.
+- **"Portaspazzola"** --> stamparlo con la pinza per la spazzola orientata verticalmente,  **necessita di supporti solo dal piano di stampa**.
+
 <br clear="left"/>
 
 #### Progetto di:
