@@ -48,12 +48,15 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 - **"Manico"** --> stamparlo orizzontalmente, **necessita di supporti**.
 - **"Incastro"** --> stamparlo verticalmente, non necessita di supporti.
 
-#### Design e Ingegnerizzazione:
+#### Design:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
 - Francesco Rodighiero (francesco.rodighiero@gmail.com)
-- (Ingegnerizzazione e revisione) Maurizio Contu  (maurizio.contu@hackability.it)
+
+#### Ingegnerizzazione:
+
+- Maurizio Contu (maurizio.contu@hackability.it)
 
 
 <br clear="left"/>
@@ -129,12 +132,15 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 <br clear="left"/>
 
-#### Design e Ingegnerizzazione:
+#### Design:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
 - Francesco Rodighiero (francesco.rodighiero@gmail.com)
-- (Ingegnerizzazione e revisione) Maurizio Contu  (maurizio.contu@hackability.it)
+
+#### Ingegnerizzazione:
+
+- Maurizio Contu (maurizio.contu@hackability.it)
 
 <br clear="left"/>
 
