@@ -28,7 +28,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 - **"Poggiamano"** --> stamparlo in verticale.
 - **"Spondine"** --> stamparle in orizzontale con la faccia senza raccordi a contatto con il piano di stampa.
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
@@ -48,7 +48,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 - **"Manico"** --> stamparlo orizzontalmente, **necessita di supporti**.
 - **"Incastro"** --> stamparlo verticalmente, non necessita di supporti.
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
@@ -71,7 +71,7 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, **necessita di
 
 <br clear="left"/>
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
@@ -90,7 +90,7 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 
 <br clear="left"/>
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
@@ -109,7 +109,7 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 
 <br clear="left"/>
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
@@ -129,7 +129,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 <br clear="left"/>
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
@@ -151,7 +151,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 <br clear="left"/>
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
@@ -170,7 +170,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 <br clear="left"/>
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
@@ -189,7 +189,7 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 <br clear="left"/>
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
@@ -220,7 +220,7 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 #### Modalità di stampa:
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
@@ -235,7 +235,7 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 #### Modalità di stampa:
 
-#### Progetto di:
+#### Design e Ingegnerizzazione:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
