@@ -226,7 +226,7 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 #### Modalità di stampa:
 
-#### Design e Ingegnerizzazione:
+#### Design:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
@@ -241,7 +241,7 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 #### Modalità di stampa:
 
-#### Design e Ingegnerizzazione:
+#### Design:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
