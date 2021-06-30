@@ -6,7 +6,7 @@ Tech4Inclusion è stato realizzato con il contributo di FONDAZIONE CRT.
 
 ---
 
-[<img align="right" src="Presidi/anteprime_presidi/list.png" width="15%">](Presidi/README.md)
+[<img align="right" src="Presidi/anteprime_presidi/list_new.png" width="15%">](Presidi/README.md)
 
 Per vedere la lista dei modelli 3D visitare la cartella [Presidi](Presidi) e aprire il file [Presidi/README](Presidi/README.md).
 
