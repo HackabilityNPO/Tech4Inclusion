@@ -32,6 +32,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
+
 <br clear="left"/>
 
 ---
@@ -58,6 +63,10 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 - Maurizio Contu (maurizio.contu@hackability.it)
 
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
 
 <br clear="left"/>
 
@@ -78,6 +87,11 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, **necessita di
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
+
 <br clear="left"/>
 
 ---
@@ -97,6 +111,11 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
+
 <br clear="left"/>
 
 ---
@@ -115,6 +134,11 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 #### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
+
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
 
 <br clear="left"/>
 
@@ -142,6 +166,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 - Maurizio Contu (maurizio.contu@hackability.it)
 
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
+
 <br clear="left"/>
 
 ---
@@ -160,6 +189,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 #### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
+
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
 
 <br clear="left"/>
 
@@ -180,6 +214,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
+
 <br clear="left"/>
 
 ---
@@ -198,6 +237,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 #### Design e Ingegnerizzazione:
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
+
+#### Collaboratori:
+
+- Marco Bocca (marco.bocca94@gmail.com)
+- Giuseppe Becci (peppinobecci@gmail.com)
 
 <br clear="left"/>
 
