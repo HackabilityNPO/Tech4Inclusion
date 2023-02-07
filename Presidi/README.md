@@ -295,7 +295,27 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 ---
 
+## Lista Modelli sperimentali:
+
+I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e sia in stl.
+<!--I presidi in questa lista bisogna sempre aprirli con Autodesk Fusion 360 ed esportare direttamente i corpi in stl. -->
+
+---
+
+[<img align="left" src="anteprime_presidi/supporto_cucchiaio.png" width="30%">][file_supporto_cucchiaio]
+### Supporto per cucchiaio:
+
+#### Modalità di stampa:
+
+#### Design e Ingegnerizzazione:
+
+- Maurizio Contu  (maurizio.contu@hackability.it)
+
+<br clear="left"/>
+
+---
+
 [file_estensione_tagliaunghie]: presidi_non_modificabili/estensione_tagliaunghie.stl?raw=true
 [file_tutore_penna]: presidi_non_modificabili/tutore_penna.stl?raw=true
-
+[file_supporto_cucchiaio]:experimental/supporto_cucchiaio/f3d/supporto_cuccuiaio.f3d?raw=true
 <!-- [adattatore_joystick]: anteprime_presidi/adattatore_joystick.png -->
