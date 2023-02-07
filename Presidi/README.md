@@ -311,6 +311,10 @@ I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e 
 
 - Maurizio Contu  (maurizio.contu@hackability.it)
 
+#### Cartella file stl:
+
+[Cartella_STL](experimental/supporto_cucchiaio/stl).
+
 <br clear="left"/>
 
 ---
