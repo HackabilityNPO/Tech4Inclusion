@@ -315,6 +315,10 @@ I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e 
 
 [Cartella_STL](experimental/supporto_cucchiaio/stl).
 
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio.3mf?raw=true).
+
 <br clear="left"/>
 
 ---
