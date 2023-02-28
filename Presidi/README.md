@@ -318,7 +318,9 @@ I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e 
 #### Progetto PrusaSlicer:
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-creality_ender3-V2.3mf?raw=true)
+
 [Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-deltacomb_DC20.3mf?raw=true)
+
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 <br clear="left"/>
