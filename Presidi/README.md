@@ -266,11 +266,29 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 ---
 
 [<img align="left" src="anteprime_presidi/estensione_tagliaunghie.png" width="30%">][file_estensione_tagliaunghie] 
-### Estensione Per Tagliaunghe:
+### Estensione Per Tagliaunghe Rev: 2.0:
 
 #### Modalità di stampa:
 
-#### Design:
+#### Design Rev 2.0:
+
+- Simone De Pascalis (simodidepa@gmail.com)
+
+#### Cartella file stl:
+
+[Cartella_STL](presidi_non_modificabili/estensione_tagli_unghie/stl).
+
+#### Progetto PrusaSlicer (Experimental):
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-deltacomb_DC20.3mf?raw=true)
+
+Tips: Spostare fuori dal piano di stampa i pezzi che NON si desidera vengano stampati.
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
+
+#### Design prima versione:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
@@ -281,11 +299,29 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 ---
 
 [<img align="left" src="anteprime_presidi/tutore_penna.png" width="30%">][file_tutore_penna] 
-### Tutore Penna:
+### Tutore Penna Rev: 2.0:
 
 #### Modalità di stampa:
 
-#### Design:
+#### Design Rev 2.0:
+
+- Simone De Pascalis (simodidepa@gmail.com)
+
+#### Cartella file stl:
+
+[Cartella_STL](presidi_non_modificabili/tutore_penna/stl).
+
+#### Progetto PrusaSlicer (Experimental):
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-deltacomb_DC20.3mf?raw=true)
+
+Tips: Spostare fuori dal piano di stampa i pezzi che NON si desidera vengano stampati.
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
+
+#### Design prima versione:
 
 - Giulia Galante  (giuliag.galante@gmail.com)
 - Simone De Pascalis (simodidepa@gmail.com)
