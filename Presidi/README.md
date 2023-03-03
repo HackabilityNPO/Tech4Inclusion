@@ -363,7 +363,7 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 ---
 
-[file_estensione_tagliaunghie]: presidi_non_modificabili/estensione_tagliaunghie.stl?raw=true
-[file_tutore_penna]: presidi_non_modificabili/tutore_penna.stl?raw=true
+[file_estensione_tagliaunghie]: presidi_non_modificabili/estensione_tagli_unghie/copertina/estensione_tagliaunghie_rev.2.0.stl?raw=true
+[file_tutore_penna]: presidi_non_modificabili/tutore_penna/copertina/tutore_penna_rev.2.0.stl?raw=true
 [file_supporto_cucchiaio]:experimental/supporto_cucchiaio/f3d/supporto_cuccuiaio.f3d?raw=true
 <!-- [adattatore_joystick]: anteprime_presidi/adattatore_joystick.png -->
