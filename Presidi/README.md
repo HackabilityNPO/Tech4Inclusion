@@ -274,6 +274,7 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 - Simone De Pascalis (simodidepa@gmail.com)
 
+
 #### Cartella file stl:
 
 [Cartella_STL](presidi_non_modificabili/estensione_tagli_unghie/stl).
@@ -306,6 +307,7 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 #### Design Rev 2.0:
 
 - Simone De Pascalis (simodidepa@gmail.com)
+
 
 #### Cartella file stl:
 
