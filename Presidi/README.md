@@ -278,7 +278,8 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 [Cartella_STL](presidi_non_modificabili/estensione_tagli_unghie/stl).
 
--
+<br clear="left"/>
+
 #### Progetto PrusaSlicer (Experimental):
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-creality_ender3-V2.3mf?raw=true)
@@ -312,7 +313,8 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 [Cartella_STL](presidi_non_modificabili/tutore_penna/stl).
 
--
+<br clear="left"/>
+
 #### Progetto PrusaSlicer (Experimental):
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-creality_ender3-V2.3mf?raw=true)
@@ -343,7 +345,7 @@ I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e 
 [<img align="left" src="anteprime_presidi/supporto_cucchiaio.png" width="30%">][file_supporto_cucchiaio]
 ### Supporto per cucchiaio:
 
-#### Modalità di stampa:
+<!-- #### Modalità di stampa: -->
 
 #### Design e Ingegnerizzazione:
 
