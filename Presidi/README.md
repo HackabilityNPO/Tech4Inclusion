@@ -274,11 +274,11 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 - Simone De Pascalis (simodidepa@gmail.com)
 
-
 #### Cartella file stl:
 
 [Cartella_STL](presidi_non_modificabili/estensione_tagli_unghie/stl).
 
+---
 #### Progetto PrusaSlicer (Experimental):
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-creality_ender3-V2.3mf?raw=true)
@@ -308,11 +308,11 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 - Simone De Pascalis (simodidepa@gmail.com)
 
-
 #### Cartella file stl:
 
 [Cartella_STL](presidi_non_modificabili/tutore_penna/stl).
 
+---
 #### Progetto PrusaSlicer (Experimental):
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-creality_ender3-V2.3mf?raw=true)
