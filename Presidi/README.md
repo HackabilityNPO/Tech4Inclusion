@@ -268,7 +268,7 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 [<img align="left" src="anteprime_presidi/estensione_tagliaunghie.png" width="30%">][file_estensione_tagliaunghie] 
 ### Estensione Per Tagliaunghe Rev: 2.0:
 
-#### Modalità di stampa:
+<!-- #### Modalità di stampa: -->
 
 #### Design Rev 2.0:
 
@@ -301,7 +301,7 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 [<img align="left" src="anteprime_presidi/tutore_penna.png" width="30%">][file_tutore_penna] 
 ### Tutore Penna Rev: 2.0:
 
-#### Modalità di stampa:
+<!-- #### Modalità di stampa: -->
 
 #### Design Rev 2.0:
 
