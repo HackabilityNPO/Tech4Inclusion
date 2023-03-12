@@ -39,6 +39,23 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 <br clear="left"/>
 
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Adattatore_Joystick/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
+
+<br clear="left"/>
+
+
 ---
 
 [<img align="left" src="anteprime_presidi/attaccabottoni.png" width="30%">][file_aattaccabottoni] 
@@ -70,6 +87,23 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 <br clear="left"/>
 
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Attaccabottoni/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
+
+<br clear="left"/>
+
+
 ---
 
 [<img align="left" src="anteprime_presidi/joystick_originale.png" width="30%">][file_joystick_originale] 
@@ -93,6 +127,23 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, **necessita di
 - Giuseppe Becci (peppinobecci@gmail.com)
 
 <br clear="left"/>
+
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Joystick_originale/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_originale/progetto_prusaslicer/joystick-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Joystick_originale/progetto_prusaslicer/joystick-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
+
+<br clear="left"/>
+
 
 ---
 
@@ -118,6 +169,22 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 
 <br clear="left"/>
 
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Joystick_Sfera/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
+
+<br clear="left"/>
+
 ---
 
 [<img align="left" src="anteprime_presidi/joystick_ver2.png" width="30%">][file_joystick_ver2] 
@@ -139,6 +206,22 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 
 - Marco Bocca (marco.bocca94@gmail.com)
 - Giuseppe Becci (peppinobecci@gmail.com)
+
+<br clear="left"/>
+
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Joystick_Ver2/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 <br clear="left"/>
 
@@ -173,6 +256,22 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 <br clear="left"/>
 
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Portaspazzola/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
+
+<br clear="left"/>
+
 ---
 
 [<img align="left" src="anteprime_presidi/presidio_dito.png" width="30%">][file_presidio_dito] 
@@ -194,6 +293,22 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 - Marco Bocca (marco.bocca94@gmail.com)
 - Giuseppe Becci (peppinobecci@gmail.com)
+
+<br clear="left"/>
+
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Presidio_Dito/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 <br clear="left"/>
 
@@ -221,6 +336,22 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 <br clear="left"/>
 
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Presidio_Falange/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
+
+<br clear="left"/>
+
 ---
 
 [<img align="left" src="anteprime_presidi/prolunga_freni.png" width="30%">][file_prolunga_freni] 
@@ -242,6 +373,22 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 - Marco Bocca (marco.bocca94@gmail.com)
 - Giuseppe Becci (peppinobecci@gmail.com)
+
+<br clear="left"/>
+
+#### Cartella file stl:
+
+[Cartella_STL](experimental/Prolunga_Freni/stl).
+
+<br clear="left"/>
+
+#### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-creality_ender3-V2.3mf?raw=true)
+
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-deltacomb_DC20.3mf?raw=true)
+
+Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 <br clear="left"/>
 
