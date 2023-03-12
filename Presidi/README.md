@@ -367,6 +367,12 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 <br clear="left"/>
 
+## Profili PrusaSlicer:
+
+Di seguito i profili per l'aggiunta delle stampanti sul programma PrusaSlicer
+
+### Profilo per Deltacomb DC-20:
+[DELTACOMB DC-20](/Configurazione_Prusaslicer/PrusaSlicer_config_deltacomb_DC-20.ini)
 ---
 
 [file_estensione_tagliaunghie]: presidi_non_modificabili/estensione_tagli_unghie/copertina/estensione_tagliaunghie_rev.2.0.stl?raw=true
