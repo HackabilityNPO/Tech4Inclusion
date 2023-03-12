@@ -234,13 +234,9 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 - Marco Bocca (marco.bocca94@gmail.com)
 - Giuseppe Becci (peppinobecci@gmail.com)
 
-<br clear="left"/>
-
 #### Cartella file stl:
 
 [Cartella_STL](experimental/Portaspazzola/stl).
-
-<br clear="left"/>
 
 #### Progetto PrusaSlicer:
 
@@ -274,13 +270,9 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 - Marco Bocca (marco.bocca94@gmail.com)
 - Giuseppe Becci (peppinobecci@gmail.com)
 
-<br clear="left"/>
-
 #### Cartella file stl:
 
 [Cartella_STL](experimental/Presidio_Dito/stl).
-
-<br clear="left"/>
 
 #### Progetto PrusaSlicer:
 
@@ -314,13 +306,9 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 - Marco Bocca (marco.bocca94@gmail.com)
 - Giuseppe Becci (peppinobecci@gmail.com)
 
-<br clear="left"/>
-
 #### Cartella file stl:
 
 [Cartella_STL](experimental/Presidio_Falange/stl).
-
-<br clear="left"/>
 
 #### Progetto PrusaSlicer:
 
@@ -354,13 +342,9 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 - Marco Bocca (marco.bocca94@gmail.com)
 - Giuseppe Becci (peppinobecci@gmail.com)
 
-<br clear="left"/>
-
 #### Cartella file stl:
 
 [Cartella_STL](experimental/Prolunga_Freni/stl).
-
-<br clear="left"/>
 
 #### Progetto PrusaSlicer:
 
