@@ -375,7 +375,7 @@ Di seguito i profili per l'aggiunta delle stampanti sul programma PrusaSlicer
 
 ### Profilo per Deltacomb DC-20:
 
-[DELTACOMB DC-20](/Configurazione_Prusaslicer/PrusaSlicer_config_deltacomb_DC-20.ini?raw=true)
+[DELTACOMB DC-20](/Configurazione_Prusaslicer/PrusaSlicer_config_deltacomb_DC-20.ini)
 
 ---
 
