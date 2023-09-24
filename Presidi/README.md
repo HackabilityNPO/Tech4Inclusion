@@ -43,6 +43,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Progetto PrusaSlicer:
 
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-elegoo_neptune-3_pro.3mf?raw=true)
+
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-creality_ender3-V2.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-deltacomb_DC20.3mf?raw=true)
@@ -50,7 +52,6 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 <br clear="left"/>
-
 
 ---
 
@@ -87,6 +88,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Progetto PrusaSlicer:
 
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-elegoo_neptune-3_pro.3mf?raw=true)
+
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-creality_ender3-V2.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-deltacomb_DC20.3mf?raw=true)
@@ -94,7 +97,6 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 <br clear="left"/>
-
 
 ---
 
@@ -124,6 +126,8 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, **necessita di
 
 #### Progetto PrusaSlicer:
 
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Joystick_originale/progetto_prusaslicer/joystick-elegoo_neptune-3_pro.3mf?raw=true)
+
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_originale/progetto_prusaslicer/joystick-creality_ender3-V2.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Joystick_originale/progetto_prusaslicer/joystick-deltacomb_DC20.3mf?raw=true)
@@ -131,7 +135,6 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, **necessita di
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 <br clear="left"/>
-
 
 ---
 
@@ -160,6 +163,8 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 [Cartella_STL](experimental/Joystick_Sfera/stl).
 
 #### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-elegoo_neptune-3_pro.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-creality_ender3-V2.3mf?raw=true)
 
@@ -196,6 +201,8 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 [Cartella_STL](experimental/Joystick_Ver2/stl).
 
 #### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-elegoo_neptune-3_pro.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-creality_ender3-V2.3mf?raw=true)
 
@@ -240,6 +247,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Progetto PrusaSlicer:
 
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-elegoo_neptune-3_pro.3mf?raw=true)
+
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-creality_ender3-V2.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-deltacomb_DC20.3mf?raw=true)
@@ -275,6 +284,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 [Cartella_STL](experimental/Presidio_Dito/stl).
 
 #### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-elegoo_neptune-3_pro.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-creality_ender3-V2.3mf?raw=true)
 
@@ -312,6 +323,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 #### Progetto PrusaSlicer:
 
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-elegoo_neptune-3_pro.3mf?raw=true)
+
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-creality_ender3-V2.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-deltacomb_DC20.3mf?raw=true)
@@ -347,6 +360,8 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 [Cartella_STL](experimental/Prolunga_Freni/stl).
 
 #### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-elegoo_neptune-3_pro.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-creality_ender3-V2.3mf?raw=true)
 
@@ -393,6 +408,8 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 #### Progetto PrusaSlicer (Experimental):
 
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-elegoo_neptune-3_pro.3mf?raw=true)
+
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-creality_ender3-V2.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-deltacomb_DC20.3mf?raw=true)
@@ -427,6 +444,8 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 <br clear="left"/>
 
 #### Progetto PrusaSlicer (Experimental):
+
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-elegoo_neptune-3_pro.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-creality_ender3-V2.3mf?raw=true)
 
@@ -469,6 +488,8 @@ I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e 
 <br clear="left"/>
 
 #### Progetto PrusaSlicer:
+
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-elegoo_neptune-3_pro.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-creality_ender3-V2.3mf?raw=true)
 
