@@ -497,9 +497,9 @@ Affinchè venga garantito il funzionamento il progetto presenta le seguenti part
 
 #### Progetto PrusaSlicer (Experimental):
 
-[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-elegoo_neptune-3_pro.3mf?raw=true)
+[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-elegoo_neptune-3_pro.3mf?raw=true "download")
 
-[PARTI_IN_GOMMA_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/hacknife/progetto_prusaslicer/rubber_hacknife-elegoo_neptune-3_pro.3mf?raw=true)
+[PARTI_IN_GOMMA_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/hacknife/progetto_prusaslicer/rubber_hacknife-elegoo_neptune-3_pro.3mf?raw=true "download")
 
 <!--[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-creality_ender3-V2.3mf?raw=true) -->
 
@@ -537,11 +537,11 @@ I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e 
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-elegoo_neptune-3_pro.3mf?raw=true "download")
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-creality_ender3-V2.3mf?raw=true "download")
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-deltacomb_DC20.3mf?raw=true "download")
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
