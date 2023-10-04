@@ -537,7 +537,7 @@ I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e 
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-elegoo_neptune-3_pro.3mf)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-elegoo_neptune-3_pro.3mf?raw=true)
 
 [Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-creality_ender3-V2.3mf?raw=true)
 
