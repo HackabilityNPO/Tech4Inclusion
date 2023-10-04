@@ -469,7 +469,6 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 ### Cut it - Hacknife:
 
 #### Video Dimostrazione:
-
 [LINK VIDEO](https://www.facebook.com/watch/?v=874888290203762)
 
 #### Design:
@@ -479,7 +478,6 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 - Davide Massetti (linkedin.com/in/davide-massetti-368037211)
 
 <br clear="left"/>
-
 #### Cartella file stl:
 
 [Cartella_STL](presidi_non_modificabili/hacknife/stl).
