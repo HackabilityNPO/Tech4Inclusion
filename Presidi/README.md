@@ -478,12 +478,11 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 - Marco Bocca (marco.bocca94@gmail.com)
 - Davide Massetti (linkedin.com/in/davide-massetti-368037211)
 
+<br clear="left"/>
 
 #### Cartella file stl:
 
 [Cartella_STL](presidi_non_modificabili/Hacknife/stl).
-
-<br clear="left"/>
 
 #### Avvertenze:
 
@@ -494,7 +493,7 @@ Affinchè venga garantito il funzionamento il progetto presenta le seguenti part
 - laccio_corto.stl
 - laccio_lungo.stl
 
-**La stampante ELEGOO Neptune 3 PRO è l'unica stampante idonea per questo materiale pertanto solo per questa è stato inserito il progetto prusaslicer per i sopracitati componenti di hacknife.**
+**La stampante ELEGOO Neptune 3 PRO è l'unica stampante idonea per questo materiale pertanto solo per questa sono stati inseriti i progetti prusaslicer per hacknife.**
 
 #### Progetto PrusaSlicer (Experimental):
 
@@ -502,9 +501,9 @@ Affinchè venga garantito il funzionamento il progetto presenta le seguenti part
 
 [PARTI_IN_GOMMA_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/hacknife/progetto_prusaslicer/rubber_hacknife-elegoo_neptune-3_pro.3mf?raw=true)
 
-[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-creality_ender3-V2.3mf?raw=true)
+<!--[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-creality_ender3-V2.3mf?raw=true) -->
 
-[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-deltacomb_DC20.3mf?raw=true)
+<!--[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-deltacomb_DC20.3mf?raw=true) -->
 
 Tips: Spostare fuori dal piano di stampa i pezzi che NON si desidera vengano stampati.
 
