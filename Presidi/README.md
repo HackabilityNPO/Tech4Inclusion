@@ -497,9 +497,9 @@ Affinchè venga garantito il funzionamento il progetto presenta le seguenti part
 
 #### Progetto PrusaSlicer (Experimental):
 
-[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-elegoo_neptune-3_pro.3mf "download")
+[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-elegoo_neptune-3_pro.3mf)
 
-[PARTI_IN_GOMMA_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/hacknife/progetto_prusaslicer/rubber_hacknife-elegoo_neptune-3_pro.3mf "download")
+[PARTI_IN_GOMMA_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/hacknife/progetto_prusaslicer/rubber_hacknife-elegoo_neptune-3_pro.3mf)
 
 <!--[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-creality_ender3-V2.3mf?raw=true) -->
 
