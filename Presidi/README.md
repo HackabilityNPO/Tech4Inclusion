@@ -482,7 +482,7 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 #### Cartella file stl:
 
-[Cartella_STL](presidi_non_modificabili/Hacknife/stl).
+[Cartella_STL](presidi_non_modificabili/hacknife/stl).
 
 #### Avvertenze:
 
