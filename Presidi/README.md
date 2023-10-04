@@ -472,13 +472,13 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 [LINK VIDEO](https://www.facebook.com/watch/?v=874888290203762)
 
+<br clear="left"/>
+
 #### Design:
 
 - Sara Modugno (linkedin.com/in/sara-modugno-b87384229)
 - Marco Bocca (marco.bocca94@gmail.com)
 - Davide Massetti (linkedin.com/in/davide-massetti-368037211)
-
-<br clear="left"/>
 
 #### Cartella file stl:
 
