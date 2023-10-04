@@ -43,11 +43,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Adattatore_Joystick/progetto_prusaslicer/adattatore_joystick-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -88,11 +88,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Attaccabottoni/progetto_prusaslicer/attaccabottoni-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -126,11 +126,11 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, **necessita di
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Joystick_originale/progetto_prusaslicer/joystick-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_originale/progetto_prusaslicer/joystick-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_originale/progetto_prusaslicer/joystick-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_originale/progetto_prusaslicer/joystick-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Joystick_originale/progetto_prusaslicer/joystick-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_originale/progetto_prusaslicer/joystick-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -164,11 +164,11 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_Sfera/progetto_prusaslicer/joystick_sfera-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -202,11 +202,11 @@ Stampare verticalmente con l'incastro rivolto al piano di stampa, il modello è 
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Joystick_Ver2/progetto_prusaslicer/joystick_ver2-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -247,11 +247,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Portaspazzola/progetto_prusaslicer/portaspazzola-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -285,11 +285,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2]https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/(experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Presidio_Dito/progetto_prusaslicer/presidio_dito-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -323,11 +323,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** e **
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Presidio_Falange/progetto_prusaslicer/presidio_falange-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -361,11 +361,11 @@ Usare le impostazioni standard di stampa con un **altezza layer di 0,2 mm** (per
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/Prolunga_Freni/progetto_prusaslicer/prolunga_freni-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -373,15 +373,15 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 ---
 
-[file_adattatore_joystick]: presidi_ingegnerizzati/Adattatore_Joystick_rev_1.4.f3d?raw=true
-[file_aattaccabottoni]: presidi_ingegnerizzati/Attaccabottoni_rev_1.0.f3d?raw=true
-[file_joystick_originale]: presidi_ingegnerizzati/Joystick_originale.f3d?raw=true
-[file_joystick_sfera]: presidi_ingegnerizzati/Joystick_sfera_rev_1.0.f3d?raw=true
-[file_portaspazzola]: presidi_ingegnerizzati/Portaspazzola_rev_1.0.f3d?raw=true
-[file_presidio_dito]: presidi_ingegnerizzati/Presidio_dito_ver_1.1.f3d?raw=true
-[file_prolunga_freni]: presidi_ingegnerizzati/Prolunga_freni_rev_1.1.f3d?raw=true
-[file_presidio_falange]: presidi_ingegnerizzati/Presidio_falange_rev_1.2.f3d?raw=true
-[file_joystick_ver2]: presidi_ingegnerizzati/Joystick_ver2_rev_1.2.f3d?raw=true
+[file_adattatore_joystick]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Adattatore_Joystick_rev_1.4.f3d
+[file_aattaccabottoni]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Attaccabottoni_rev_1.0.f3d
+[file_joystick_originale]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Joystick_originale.f3d
+[file_joystick_sfera]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Joystick_sfera_rev_1.0.f3d
+[file_portaspazzola]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Portaspazzola_rev_1.0.f3d
+[file_presidio_dito]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Presidio_dito_ver_1.1.f3d
+[file_prolunga_freni]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Prolunga_freni_rev_1.1.f3d
+[file_presidio_falange]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Presidio_falange_rev_1.2.f3d
+[file_joystick_ver2]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_ingegnerizzati/Joystick_ver2_rev_1.2.f3d
 
 
 ## Lista Modelli Non Modificabili:
@@ -408,11 +408,11 @@ I presidi in questa lista sono già in stl, vanno direttamente importati su Prus
 
 #### Progetto PrusaSlicer (Experimental):
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/estensione_tagli_unghie/progetto_prusaslicer/estensione_tagli_unghie-deltacomb_DC20.3mf)
 
 Tips: Spostare fuori dal piano di stampa i pezzi che NON si desidera vengano stampati.
 
@@ -445,11 +445,11 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 #### Progetto PrusaSlicer (Experimental):
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-elegoo_neptune-3_pro.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-creality_ender3-V2.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-deltacomb_DC20.3mf?raw=true)
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/tutore_penna/progetto_prusaslicer/tutore_penna-deltacomb_DC20.3mf)
 
 Tips: Spostare fuori dal piano di stampa i pezzi che NON si desidera vengano stampati.
 
@@ -501,9 +501,9 @@ Affinchè venga garantito il funzionamento il progetto presenta le seguenti part
 
 [PARTI_IN_GOMMA_Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/hacknife/progetto_prusaslicer/rubber_hacknife-elegoo_neptune-3_pro.3mf)
 
-<!--[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-creality_ender3-V2.3mf?raw=true) -->
+<!--[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-creality_ender3-V2.3mf) -->
 
-<!--[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-deltacomb_DC20.3mf?raw=true) -->
+<!--[SOLO_CORPO_Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](presidi_non_modificabili/hacknife/progetto_prusaslicer/corpo_hacknife-deltacomb_DC20.3mf) -->
 
 Tips: Spostare fuori dal piano di stampa i pezzi che NON si desidera vengano stampati.
 
@@ -537,11 +537,11 @@ I presidi in questa lista sono sperimentali, sono forniti sia con il file f3d e 
 
 #### Progetto PrusaSlicer:
 
-[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-elegoo_neptune-3_pro.3mf?raw=true "download")
+[Progetto PrusaSlicer ottimizzato per ELEGOO Neptune 3 PRO](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-elegoo_neptune-3_pro.3mf)
 
-[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-creality_ender3-V2.3mf?raw=true "download")
+[Progetto PrusaSlicer ottimizzato per Creality Ender 3 V2](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-creality_ender3-V2.3mf)
 
-[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-deltacomb_DC20.3mf?raw=true "download")
+[Progetto PrusaSlicer ottimizzato per DELTACOMB DC20](https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/supporto_cucchiaio/progetto_prusaslicer/supporto_cucchiaio-deltacomb_DC20.3mf)
 
 Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
@@ -555,12 +555,12 @@ Di seguito i profili per l'aggiunta delle stampanti sul programma PrusaSlicer
 
 ### Profilo per Deltacomb DC-20:
 
-[DELTACOMB DC-20](/Configurazione_Prusaslicer/PrusaSlicer_config_deltacomb_DC-20.ini?raw=true)
+[DELTACOMB DC-20](/Configurazione_Prusaslicer/PrusaSlicer_config_deltacomb_DC-20.ini)
 
 ---
 
-[file_hacknife]: presidi_non_modificabili/hacknife/copertina/hacknife_rev.1.0.stl?raw=true
-[file_estensione_tagliaunghie]: presidi_non_modificabili/estensione_tagli_unghie/copertina/estensione_tagliaunghie_rev.2.0.stl?raw=true
-[file_tutore_penna]: presidi_non_modificabili/tutore_penna/copertina/tutore_penna_rev.2.0.stl?raw=true
-[file_supporto_cucchiaio]:experimental/supporto_cucchiaio/f3d/supporto_cuccuiaio.f3d?raw=true
+[file_hacknife]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/hacknife/copertina/hacknife_rev.1.0.stl
+[file_estensione_tagliaunghie]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/estensione_tagli_unghie/copertina/estensione_tagliaunghie_rev.2.0.stl
+[file_tutore_penna]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/presidi_non_modificabili/tutore_penna/copertina/tutore_penna_rev.2.0.stl
+[file_supporto_cucchiaio]: https://github.com/HackabilityNPO/Tech4Inclusion/raw/main/Presidi/experimental/supporto_cucchiaio/f3d/supporto_cuccuiaio.f3d
 <!-- [adattatore_joystick]: anteprime_presidi/adattatore_joystick.png -->
