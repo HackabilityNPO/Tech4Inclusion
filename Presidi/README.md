@@ -476,9 +476,9 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 #### Design:
 
-- Sara Modugno (linkedin.com/in/sara-modugno-b87384229)
+- Sara Modugno (https://www.linkedin.com/in/sara-modugno-b87384229/)
 - Marco Bocca (marco.bocca94@gmail.com)
-- Davide Massetti (linkedin.com/in/davide-massetti-368037211)
+- Davide Massetti (https://www.linkedin.com/in/davide-massetti-368037211/)
 
 #### Cartella file stl:
 
