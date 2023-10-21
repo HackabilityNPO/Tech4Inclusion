@@ -486,7 +486,7 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 
 #### Avvertenze:
 
-Affinchè venga garantito il funzionamento il progetto presenta le seguenti parti sono da **stampare in TPU**:
+Affinchè venga garantito il funzionamento il progetto presenta le seguenti parti sono da **stampare in TPU** e per una resa migliore si consiglia di stamparli **uno per volta**:
 
 - tappo_corto.stl
 - tappo_lungo.stl
