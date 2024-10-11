@@ -466,7 +466,7 @@ Attenzione: mettere questo file nella stessa cartella dei modelli stl.
 ---
 
 [<img align="left" src="anteprime_presidi/hacknife.png" width="30%">][file_hacknife]
-### Cut it - Hacknife:
+### Dobby:
 
 #### Video Dimostrazione:
 
